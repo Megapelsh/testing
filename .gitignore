@@ -18,3 +18,11 @@
 /phpunit.xml
 .phpunit.result.cache
 ###< phpunit/phpunit ###
+
+### server ignore ###
+/cgi-bin
+/document_errors
+/logs
+/private
+/public_shtml
+/stats
